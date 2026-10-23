@@ -1,7 +1,7 @@
 # DIS08-25-Team-7 - Group 7 - Data Modelling DIS08
 ## 1. Team
-- Maximilian Leonard Jäger - 11333148
-- Emirhan Hamit Eraslan - 11404231 
+- Maximilian Leonard Jäger
+- Emirhan Hamit Eraslan 
 
 ## 2. Project Topic
 Migration and Public Opinion in Germany (2010 - 2024)  
